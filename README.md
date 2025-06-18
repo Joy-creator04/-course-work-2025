@@ -1,2 +1,16 @@
-# -course-work-2025
-All my course files organized in one place
+# Course Work 2025
+This repository contains all my organized files for the course.
+- Week1: [Clean your Room]
+- Week2: [Find Me]
+- week3: [CLI Dunfgwan CRawl]
+- week4:[Virtual Library]
+- week5:[Idea Sourcing]
+- Projects1:[week6: Cryptography project]
+- week7:[apps Script]
+- week10:[HIF Lumen]
+- project2:[week11: Dashboard]
+- week12:[Quiz3]
+- week13:[Finding your Creativity]
+- week13:[ AI Tutor]
+- week14:[Quiz4]
+- week16:[Take a hike]
