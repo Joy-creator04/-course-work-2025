@@ -1,0 +1,189 @@
+{
+  "ship": "Unity Beyond Stars",
+  "rooms": [
+    {
+      "room": "Bridge",
+      "description": "Primary command deck overseeing navigation, tactical, and life‑support readings.",
+      "activities": [
+        {
+          "activity": "Holo‑Nav Demonstration",
+          "description": "Cadets practice reading folded‑space charts on a 3‑D starfield display."
+        },
+        {
+          "activity": "Command Etiquette Brief",
+          "description": "Quick protocol drill on how to address senior officers during sorties."
+        }
+      ]
+    },
+    {
+      "room": "Observation Dome",
+      "description": "Crystal‑arc canopy offering a panoramic view of local space.",
+      "activities": [
+        {
+          "activity": "Stellar Identification Challenge",
+          "description": "Timed game: spot and tag five constellations before they drift out of view."
+        }
+      ]
+    },
+    {
+      "room": "Crew Lounge",
+      "description": "Relaxation hub stocked with synth‑cafs, board sims, and recliner pods.",
+      "activities": [
+        {
+          "activity": "Cultural Exchange Mixer",
+          "description": "Cadets share customs with Kelnari and Virellan exchange students."
+        },
+        {
+          "activity": "Synth‑Caf Tasting",
+          "description": "Barista‑droid serves regional beverage replicas—rate your favorite."
+        }
+      ]
+    },
+    {
+      "room": "Hydroponics Garden",
+      "description": "Tiered greenhouse growing food crops and Virellan photoflora.",
+      "activities": [
+        {
+          "activity": "Micro‑Crop Calibration",
+          "description": "Adjust nutrient flow to maximize lettuce growth for away‑team rations."
+        },
+        {
+          "activity": "Bioluminescent Tour",
+          "description": "Evening walk among glowing algae strains harvested from Thrix colonies."
+        }
+      ]
+    },
+    {
+      "room": "Zero‑G Sports Arena",
+      "description": "Spherical field for grav‑null games and EVA drills.",
+      "activities": [
+        {
+          "activity": "Sphereball Scrimmage",
+          "description": "Fast‑paced team sport that builds thruster control under null‑G."
+        },
+        {
+          "activity": "EVA Tumble Course",
+          "description": "Obstacle run to hone suit maneuvering in simulated vacuum."
+        }
+      ]
+    },
+    {
+      "room": "Engine Core",
+      "description": "Fusion‑fold reactor array humming at a safe 5 petawatts.",
+      "activities": [
+        {
+          "activity": "Power‑Grid Walk‑through",
+          "description": "Guided tour explaining redundancy loops that prevent cascade failures."
+        }
+      ]
+    },
+    {
+      "room": "Hydro‑Ops Bay",
+      "description": "Water reclamation hub recycling cabin runoff and greywater.",
+      "activities": [
+        {
+          "activity": "Reclaimer Maintenance Drill",
+          "description": "Hands‑on gasket swap to learn quick repairs planet‑side."
+        }
+      ]
+    },
+    {
+      "room": "Cryogenic Blue‑Ice Storage",
+      "description": "Vault of frozen deuterium‑rich water harvested from comet tails.",
+      "activities": [
+        {
+          "activity": "Phase‑Shift Safety Brief",
+          "description": "Lesson on monitoring sub‑zero tank pressures during planetary drops."
+        }
+      ]
+    },
+    {
+      "room": "Science Lab Complex",
+      "description": "Cluster of modular labs for exobiology, xenochemistry, and materials testing.",
+      "link": "IMG‑03",
+      "activities": [
+        {
+          "activity": "Protein Sequencer Demo",
+          "description": "Analyze alien enzyme samples sourced from previous Recon teams."
+        },
+        {
+          "activity": "Nanite Workshop",
+          "description": "Program micro‑bots to extract trace elements from regolith."
+        }
+      ]
+    },
+    {
+      "room": "Medical Wing",
+      "description": "Advanced med‑bay equipped for multi‑species triage and nanoscopic surgery.",
+      "activities": [
+        {
+          "activity": "Bio‑Scanner Orientation",
+          "description": "Practice running vitals on a holographic Thrix patient."
+        }
+      ]
+    },
+    {
+      "room": "Fabrication Workshop",
+      "description": "Auto‑forge deck printing mission gear from raw feedstock.",
+      "activities": [
+        {
+          "activity": "Field‑Tool Print Job",
+          "description": "Design and fab a collapsible sampling probe in under 30 minutes."
+        },
+        {
+          "activity": "Composite Stress Test",
+          "description": "Measure tensile limits of Thrix‑designed silicon mesh."
+        }
+      ]
+    },
+    {
+      "room": "Library Archive",
+      "description": "Quiet hall of holo‑stacks containing centuries of Collaborative knowledge.",
+      "activities": [
+        {
+          "activity": "First‑Contact Case Review",
+          "description": "Study past successes and missteps, from Kelnari accord to Virellan entry."
+        }
+      ]
+    },
+    {
+      "room": "Stellar Cartography Lab",
+      "description": "Domed theater mapping hyperspace routes and newly charted systems.",
+      "activities": [
+        {
+          "activity": "Fold‑Gate Plotting Exercise",
+          "description": "Calculate safest duo‑fold path to the outer Perseus frontier."
+        }
+      ]
+    },
+    {
+      "room": "Cadet Quarters",
+      "description": "Compact living suites with adaptive gravity‑beds.",
+      "activities": []
+    },
+    {
+      "room": "Mess Hall",
+      "description": "High‑throughput galley serving nutrient‑balanced meals for all species.",
+      "activities": [
+        {
+          "activity": "Cross‑Cuisine Lab",
+          "description": "Combine Old‑Earth spices with Kelnari sea kelp—rate palatability."
+        }
+      ]
+    },
+    {
+      "room": "Shuttle Hangar",
+      "description": "Launch bay housing drop‑shuttles and reconnaissance drones.",
+      "activities": [
+        {
+          "activity": "Pre‑Flight Checklist Drill",
+          "description": "Run diagnostics on a short‑range scout before simulated descent."
+        },
+        {
+          "activity": "Cargo‑Net Lash Practice",
+          "description": "Secure supply crates against 3‑G entry turbulence."
+        }
+      ]
+    }
+  ]
+}

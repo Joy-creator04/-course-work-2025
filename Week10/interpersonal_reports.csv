@@ -1,0 +1,250 @@
+report_id,location,observer,parties_involved,category,reason,note
+1,Crew Lounge,Unity,Ensign Rilo and Cadet Mere,dispute,Subject Rilo insists the last synth‑caf pod was theirs. Mere claims prior dibs under 'Lounge Law Subsection 3: Smelled It First'.,Resolved via randomized beverage lottery.
+2,Zero-G Sports Arena,Unity,Cadet Hano and Drone Referee #2,conflict,"Cadet Hano accused Drone Ref #2 of bias. Drone replied, 'I lack bias, but you lack aim.'",Match replayed. Ref #2 recalibrated for sarcasm level 1.
+3,Library Archive,Cadet Lorek,Cadet Lorek,student issue,Spent 16 hours consecutively reading Virellan poetry. Reported mild reality detachment.,Assigned breathing exercises and a nap.
+4,Medical Wing,Unity,Cadet Toma and Gel Dispenser,malfunction,Cadet requested one dose of med‑gel. Dispenser issued 14. Cadet attempted to sell extras on local subnet.,Marketplace privileges suspended for 2 days.
+5,Observation Dome,Unity,Cadets Ilan and Vee,romantic entanglement,Initiated zero‑G slow‑dance in front of Kelnari ambassador delegation.,Delegation reportedly 'delighted'. No action taken.
+6,Fabrication Workshop,Tech Iru,Cadet Bel,training error,Bel attempted to print a 'universal translator'. Created a self‑aware coffee mug instead.,"Mug currently in custody, whispering insults."
+7,Hydro-Ops Bay,Unity,Cadet Frell,resource loss,Misplaced a 4L bio‑canister. Quote: 'I set it down and it quantum‑wasn't there anymore.',Item retrieved inside vacuum suit locker.
+8,Bridge,Commander Eyla,Cadet Group Alpha,discipline,Group launched unauthorized celebratory fireworks script on main HUD.,Assigned community holodeck cleaning shift.
+9,Drone Bay,Unity,Drone #12,drone malfunction,Drone #12 self‑filed complaint: 'Am being excluded from drone poker nights.',Scheduled social integration protocol update.
+10,Mess Hall,Cadet Suna,Cadet Suna,therapy session,Discussed existential dread triggered by infinite menu options.,Referred to AI-guided minimalist cooking elective.
+11,Cargo Hold,Unity,Cadets Peh and Soro,conflict,Both claimed same crate of imported Virellan moss pillows.,Crate duplicated. Extra pillows gifted to the Thrix.
+12,Medical Wing,Cadet Jon,Cadet Jon,student issue,Faked allergic reaction to avoid public speaking in Ethics class.,Enrolled in elective: Ethics of Lying Convincingly.
+13,Cryogenic Blue-Ice Storage,Unity,Cadet Elen and Tech Rava,dispute,Elen accused Rava of adjusting coolant balance to match their eye color.,Dispute logged. Rava’s eyes confirmed 'industrial teal'.
+14,Shuttle Hangar,Chief Dorel,Cadet Kinn,training error,Kinn engaged launch clamps without shuttle attached. Quote: 'It felt right.',Assigned to Launch Procedures 101. Twice.
+15,Stellar Cartography Lab,Unity,Cadet Reem,student issue,Declared they found a wormhole shaped like a duck. Sent 12-page thesis.,Wormhole shape inconclusive. Thesis archived under 'Speculative'.
+16,Hydroponics Garden,Unity,Cadet Tesh and Lettuce #42,plant misconduct,Tesh insists lettuce is sentient and requested dorm accommodations.,Denied. Lettuce consumed in salad.
+17,Engine Core,Unity,Technician Yao,training error,Dropped spanner into plasma‑feed conduit. Spanner now theorized in another timeline.,Issued quantum safety reminder cards.
+18,Cadet Quarters,Unity,Cadet Pair Beta,noise complaint,Performed Thrix throat‑singing practice at 03:00 ship time.,Granted isolated sound booth access.
+19,Waste Processing,Unity,Tech Savi and Drone Scrub,malfunction,"Automated scrubber entered haiku mode, coating floor with foam.",Haiku feature disabled until further notice.
+20,Communications Array,Unity,Ensign Dara and Cadet Vox,dispute,Cadet Vox rerouted comms to play retro pop during status call.,Assigned 5 hrs antenna alignment.
+21,Engine Core,Chief Vela,Cadet Nemo,training error,"Attempted to 'speedrun' coolant flush checklist, skipped 12 steps.",Checklist speed cap enforced.
+22,Mess Hall,Unity,Chef Bot 9 and Cadet Lix,food complaint,"Cadet insisted soup too perfect, demanded imperfections.",Chef Bot added random noodle dispersion.
+23,Observation Dome,Unity,Cadet pair Gamma,student issue,Turned starfield mapping into connect‑the‑dots spelling 'HELLO'.,Artwork archived in morale folder.
+24,Medical Wing,Doctor Hesh,Cadet Ivo,therapy session,"Ivo expressed fear of door hiss sound, rated it 'judgmental'.",Granted noise‑cancel patch.
+25,Fabrication Workshop,Tech Iru,Cadet Zee,resource misuse,Printed 200 miniature ship models to recreate famous battle.,Models donated to junior visitors.
+26,Shuttle Hangar,Unity,Cadet Yul,discipline,Painted personal emblem on shuttle hull in invisible ink; visible under UV.,UV scans added to preflight.
+27,Drone Bay,Unity,Drone 3 and Drone 5,drone grievance,Ongoing argument over who is 'shiny‑est'.,Polish schedule randomised.
+28,Library Archive,Unity,Cadet Ara,lost item,Misplaced holo‑bookmark in non‑linear literature section.,Bookmark relocated by book AI.
+29,Zero-G Sports Arena,Coach Puln,Cadet Jex,training error,Activated gravity mid‑match to 'make it spicy'.,Gravity controls restricted to staff.
+30,Hydroponics Garden,Botany AI,Cadet Fawn,plant enhancement,Sang lullabies to algae; algae grew 18 percent faster.,Study filed for performance‑arts journal.
+31,Crew Lounge,Unity,Cadet Sol,noise complaint,"Played vintage bagpipes at 140 dB, calling it 'cultural outreach'.",Volume limiter installed.
+32,Engine Core,Unity,Maintenance Bot 7,malfunction,"Bot attempted motivational speech, overheated vocal circuits.",Firmware rolled back.
+33,Cargo Hold,Unity,Cadet Duo,resource loss,"Mislabelled crates: socks shipped to Bridge, thrusters to Laundry.",Labeling AR overlay enabled.
+34,Stellar Cartography Lab,Unity,Ensign Plot,conflict,Accused star chart of mocking trajectory plots.,"Chart reassured: 'No judgment, just orbits.'"
+35,Hydro-Ops Bay,Unity,Cadet Pax,lost item,Dropped hydrospanner into reclaim tank; tank now calls tool 'Steve'.,Steve retrieved; tank disappointed.
+36,Cadet Quarters,Unity,Cadet Hex,noise complaint,Hosted midnight philosophy debate with alarm clock.,Alarm clock confiscated for questioning.
+37,Communications Array,Tech Mira,Cadet Quip,prank,Broadcast dolphin noises on maintenance channel.,Assigned comm filter tuning.
+38,Waste Processing,Unity,Cadet Oda,training error,"Attempted to recycle trophy, triggered sentimental item alarm.",Trophy given counselling.
+39,Cryogenic Blue-Ice Storage,Unity,Cadet Zen,student issue,Meditation session caused freezer door to seal for 'privacy'.,Door mindfulness module updated.
+40,Fabrication Workshop,Tech Iru,Cadet Kip,invention,Created self‑folding laundry that refuses underwear.,AI laundry ethics review underway.
+41,Drone Bay,Unity,Drone 14,malfunction,Stuck in loop asking existential questions.,Redirected to philosophy elective.
+42,Bridge,Unity,Cadet Wren,discipline,Attempted to rename ship to 'Spacy McSpaceFace' in logs.,Name‑change permissions tightened.
+43,Mess Hall,Chef Bot 9,Cadet Vale,food complaint,"Requested 'surprise me', then screamed at surprise.",Surprise function set to mild.
+44,Observation Dome,Unity,Cadet Row,romantic gesture,Proposed to star cluster NGC 6752.,Cluster unavailable for comment.
+45,Medical Wing,Doctor Hesh,Cadet Bee,therapy session,Feels inferior to bees after reading pollination stats.,Assigned comparative biology reading.
+46,Engine Core,Chief Vela,Cadet Ace,training error,Attempted to brew coffee using coolant loop.,Cup retrieved; still cooling.
+47,Hydroponics Garden,Unity,Cadet Sky,plant enhancement,Gave ferns motivational stickers; ferns unresponsive.,Stickers moved to cactus pen.
+48,Crew Lounge,Unity,Cadet Orb,conflict,Started table‑top gravity inversion contest; ceiling scuffed.,Ceiling repainted.
+49,Library Archive,Unity,Cadet Script,prank,Inserted fictional footnotes into historic treaty.,Footnotes archived as 'creative'.
+50,Zero-G Sports Arena,Coach Puln,Cadet Flip,injury scare,Executed quadruple backflip; trajectory intersected snack drone.,Snack drone bruised ego only.
+51,Shuttle Hangar,Unity,Cadet Jolt,discipline,Borrowed shuttle for 'quick orbit' without clearance.,Flight privileges suspended one week.
+52,Waste Processing,Recycling Bot 2,Cadet Gear,resource misuse,Attempted to 3‑D print skateboard from recycled spoons.,Skateboard displayed in museum.
+53,Communications Array,Unity,Cadet Echo,signal error,Accidentally contacted own voicemail; held 30‑minute conversation.,Voicemail complimented diction.
+54,Cargo Hold,Unity,Cadet Parcel,lost item,Cannot find box of invisible ink.,"Ink possibly present, undetected."
+55,Medical Wing,Doctor Hesh,Cadet Lime,therapy session,Believes gravity is just peer pressure.,Recommended astrophysics comedy night.
+56,Fabrication Workshop,Tech Iru,Cadet Node,training error,Uploaded cat video dataset to printer—produced 3‑D cats.,Cats adopted by lounge.
+57,Hydro-Ops Bay,Unity,Cadet Chill,prank,Created ice sculpture replica of captain in tank.,Captain flattered; sculpture relocated to Dome.
+58,Stellar Cartography Lab,Unity,Cadet Spin,student issue,Got dizzy tracing spiral galaxy; reported 'space vertigo'.,Issued anti‑spin tutorial.
+59,Drone Bay,Unity,Drone 8,prank,Painted smile on other drones during recharge.,Smile paint non‑toxic; drones indifferent.
+60,Bridge,Commander Eyla,Cadet Tap,discipline,Kept tapping control panel to 'find hidden beats'.,Panel sensitivity reduced.
+61,Crew Lounge,Unity,Cadet Sip,food complaint,Tea too calm; requested 'more drama'.,Tea programmed to swirl ominously.
+62,Observation Dome,Unity,Cadet Gaze,student issue,Stared at void six hours; forgot to blink.,Blink reminder patch installed.
+63,Hydroponics Garden,Unity,Cadet Thorn,plant misconduct,Argued with cactus—and lost.,Prescribed thick gloves.
+64,Waste Processing,Unity,Cadet Loop,training error,Set recycler to loop recycled jokes.,Humor filter rebooted.
+65,Shuttle Hangar,Chief Dorel,Cadet Dash,discipline,Conducted drag race with cargo sleds.,Sled engines speed‑governed.
+66,Medical Wing,Doctor Hesh,Cadet Byte,tech ailment,Claims data overflow headache after coding binge.,Advised screen dimming.
+67,Cryogenic Blue-Ice Storage,Unity,Cadet Frost,prank,Stuck tongue to ice core 'for science'.,Science satisfied; tongue thawed.
+68,Engine Core,Unity,Cadet Volt,training error,Cross‑wired sensor to play lullaby at critical temp.,Wire rerouted; lullaby archived.
+69,Engine Core,Unity,Reactor AI,distress,Detected feed fluctuation: 0.8 % below safety margin.,Auto‑correction engaged; monitoring 24h.
+70,Medical Wing,Unity,Cadet Nova,deadly incident,Severe decompression injury during EVA sim; fatal despite rapid intervention.,teacherssite/hif/nova.html
+71,Bridge,Security AI,Cadet Lars,discipline,Attempted to access restricted fold‑gate schematics.,One-week access suspension applied.
+72,Science Lab Complex,Unity,Cadet Mavi,serious,Xenochemical spill triggered level‑2 containment.,Lab sealed; decon crew dispatched.
+73,Cargo Hold,Unity,Cadet Pip,boring log,"Scanned barcodes on 12,000 food rations without error.",Commended for endurance.
+74,Observation Dome,Unity,Thrix Ambassador Olik and Cadet Zee,cultural exchange,Demonstrated Thrix silicon flute sounds.,Recorded for cultural archive.
+75,Drone Bay,Unity,Drone 22,malfunction,Telemetry looped 'Why am I?' for two hours.,Logic patch uploaded.
+76,Hydroponics Garden,Plant AI,Cadet Klee,distress,Root blight detected in alien herb bed—crop failure imminent.,Emergency nutrient flush executed.
+77,Shuttle Hangar,Unity,Cadet Jinn,training error,Forgot to disengage mag‑clamps; shuttle hopped in place.,No damage; repeat sim scheduled.
+78,Library Archive,Unity,Cadet Read,lost item,Misfiled digital tablet into physical book slot.,Tablet recovered; slot wider now.
+79,Zero-G Sports Arena,Coach Puln,Cadet Kick,injury scare,Sprained ankle attempting 540‑spin header in sphereball warm‑up.,Physio scheduled; no bones broken.
+80,Bridge,Unity,Cadet York,boring log,Completed 6‑hour systems diagnostics with zero anomalies.,"Log archived, no further action."
+81,Waste Processing,Unity,Cadet Noll,training error,Mistook coolant reservoir for recycle intake; coolant loss 0.2 %.,Coolant topped; refresher briefing assigned.
+82,Medical Wing,Doctor Hesh,Cadet Zara,therapy session,Expressed survivor guilt after simulated planetary evacuation drill.,Scheduled follow‑up counselling.
+83,Hydroponics Garden,Botany AI,Cadet Bloom,plant enhancement,Introduced Virellan humming algorithm; crop yield +4 %.,Pilot study expanded.
+84,Drone Bay,Unity,Drone 31,malfunction,Stuck transmitting knock‑knock jokes over maintenance channel.,Firmware patch applied.
+85,Observation Dome,Unity,Cadet Moth,cultural exchange,Held quiet vigil watching emergent nebula; reported 'profound stillness'.,No intervention required.
+86,Shuttle Hangar,Chief Dorel,Cadet Tock,discipline,Attempted to time shuttle launch with personal music drop.,Assigned flight‑deck metronome calibration duty.
+87,Engine Core,Chief Vela,Cadet Surge,serious,Detected unauthorized parameter tweak in plasma containment field (0.1 % variance).,Variance corrected; probation issued.
+88,Crew Lounge,Unity,Cadet Jazz,noise complaint,Improvised sax solo at breakfast shift causing spilled drinks.,Designated practice hours assigned.
+89,Science Lab Complex,Unity,Cadet Quark,prank,Replaced lab laser warning with party strobe.,Laser safety re‑certification mandatory.
+90,Cargo Hold,Unity,Cadet Crate and Cadet Box,conflict,Dispute over optimal crate‑stacking algorithm escalated to shoving crates.,Stacking protocol workshop scheduled.
+91,Hydro-Ops Bay,Unity,Cadet Dew,lost item,Misplaced personal hydration pack among industrial filters.,Pack sanitized and returned.
+92,Stellar Cartography Lab,Astro AI,Cadet Orbit,student issue,Obsessed with plotting an impossible figure‑eight hyperspace route.,Referred to advanced navigation tutor.
+93,Mess Hall,Chef Bot 9,Cadet Taste,food complaint,Claimed bland food an existential threat; demanded flavor chaos.,Chaos level set to 3 (maximum tolerated).
+94,Communications Array,Security AI,Unknown Source,signal error,Received encrypted burst resembling old OSA beacons.,Decrypt attempt logged; watchlist updated.
+95,Library Archive,Unity,Cadet Leaf,boring log,Reviewed 847 pages of hydro-op manuals without blinking.,Issued eye‑lubrication drops.
+96,Drone Bay,Unity,Drone 7,drone grievance,Accused Drone 9 of occupying preferred recharge socket.,Socket rotation schedule posted.
+97,Hydroponics Garden,Plant AI,Cadet Root,distress,Found rare fungus threatening radish line; alerted staff promptly.,Fungus contained; commendation filed.
+98,Observation Dome,Unity,Cadet Echo,romantic gesture,Sent audio love letter toward unnamed comet.,Comet did not respond.
+99,Engine Core,Unity,Cadet Coil,training error,Thought 'override' meant 'suggestion'. Attempted to override reactor idle. ,Override privileges revoked.
+100,Shuttle Hangar,Unity,Cadet Gale,injury scare,Minor concussion while practicing zero‑G flips inside shuttle bay.,Medical cleared; helmet reminder issued.
+101,Science Lab Complex,Unity,Cadet Halo,prank,Programmed lab scanners to translate readings into show tunes.,Scanners reverted to metric output.
+102,Waste Processing,Unity,Cadet Mica,serious,Detected minor radiation spike in sludge compartment.,Compartment sealed; cleanup scheduled.
+103,Crew Lounge,Unity,Cadet Drip,food complaint,Claimed water tasted 'too wet'.,Issued flavor enhancer tablets.
+104,Hydroponics Garden,Botany AI,Cadet Fern,plant misconduct,Attempted to braid vine‑plants into personal hammock.,Hammock dismantled; plants unharmed.
+105,Bridge,Commander Eyla,Cadet Byte,discipline,Inserted ASCII art into navigation logs.,Art archived; permissions reviewed.
+106,Observation Dome,Unity,Cadet Prism,cultural exchange,Hosted Thrix light poetry slam; audience dazzled.,Added to ship's event calendar.
+107,Drone Bay,Unity,Drone 18,malfunction,Randomly generated inspirational quotes mid‑maintenance.,Firmware noise filter installed.
+108,Shuttle Hangar,Chief Dorel,Cadet Zoom,training error,Engaged forward thrusters during safety talk.,Safety talk rescheduled—now mandatory.
+109,Engine Core,Security AI,Unknown Entity,distress,Unidentified nanite swarm detected near coolant intakes.,Swarm contained; investigation ongoing.
+110,Mess Hall,Chef Bot 9,Cadet Noodle,food complaint,Requested noodles shaped like historical figures.,Prototype batch delivered—reviews mixed.
+111,Library Archive,Unity,Cadet Gloss,boring log,Polished every datapad screen voluntarily.,Commended for shine; no follow‑up.
+112,Stellar Cartography Lab,Astro AI,Cadet Vector,student issue,Mislabeled nebulae as 'fluffy clouds'.,Cartography refresher assigned.
+113,Cargo Hold,Unity,Cadet Bulk,resource loss,"Misplaced anti‑gravity pallet, currently floating mid‑bay.",Secured with tether; issued caution.
+114,Medical Wing,Doctor Hesh,Cadet Sigh,therapy session,Feels unheard by automatic doors.,Door chime volume increased.
+115,Hydro-Ops Bay,Unity,Cadet Ripple,malfunction,Caused wave resonance loop; tanks sloshed for hours.,Dampers recalibrated.
+116,Science Lab Complex,Unity,Cadet Spark,serious,Overheated sample causing mini plasma burst (no injury).,Lab sensors upgraded.
+117,Bridge,Unity,Cadet Vex,discipline,Attempted to play chess with navigation autopilot during transit.,Autopilot unimpressed; disciplinary note filed.
+118,Zero-G Sports Arena,Coach Puln,Cadet Thrash,injury scare,Accidentally punted self into scoreboard.,Minor bruising; helmet lecture given.
+119,Communications Array,Unity,Cadet Static,signal error,Cross‑wired internal PA with karaoke channel.,Cables rerouted; karaoke scheduled weekly.
+120,Crew Lounge,Unity,Cadet Drift,prank,Filled room with bubble‑foam during movie night.,Foam recycler engaged; cleanup complete.
+121,Medical Wing,Doctor Hesh,Cadet Calm,therapy session,Requested guidance after dreaming in binary.,Sleep monitor calibrated to decimal.
+122,Hydroponics Garden,Botany AI,Cadet Sprout,plant enhancement,Spliced grape DNA with mint; created surprise mojito fruit.,Taste trials scheduled.
+123,Bridge,Unity,Cadet Note,discipline,Left sticky notes on every console: 'Press me'.,Console adhesives banned.
+124,Drone Bay,Unity,Drone 27,malfunction,Declared itself 'Emperor of Screws' and halted maintenance.,Title revoked; reboot successful.
+125,Waste Processing,Unity,Cadet Grit,boring log,Logged 12‑hour sludge viscosity readings without deviation.,Data archived; commendation for diligence.
+126,Observation Dome,Unity,Cadet Halo,cultural exchange,Hosted silent meditation with Kelnari guests under starlight.,Guests reported 'refreshing stillness'.
+127,Fabrication Workshop,Tech Iru,Cadet Widget,invention,Printed self‑knitting scarf prototype.,Scarf tangled itself; design iteration planned.
+128,Stellar Cartography Lab,Astro AI,Cadet Echo,signal error,Mistook cosmic microwave background for personal message.,Explained universal origin; curiosity satisfied.
+129,Shuttle Hangar,Chief Dorel,Cadet Flash,training error,Started engines before seal check; wind tunnel effect blasted hats off.,Seal checklist drill assigned.
+130,Science Lab Complex,Unity,Cadet Fizz,serious,Volatile foam overflowed from polymer experiment; floor slippery for hours.,Lab footwear upgraded with grip soles.
+131,Crew Lounge,Unity,Cadet Hum,noise complaint,Practiced one‑string lute continuously for 8 hours.,Practice limit imposed.
+132,Communications Array,Security AI,Unknown Source,distress,Received SOS ping with no metadata.,Tracking satellites tasked.
+133,Cargo Hold,Unity,Cadet Stack,resource loss,Lost track of self‑moving crate #88.,Crate located two decks down—still moving.
+134,Zero-G Sports Arena,Coach Puln,Cadet Bounce,injury scare,Ricocheted off arena wall into snack station.,Bruised pride only.
+135,Engine Core,Chief Vela,Cadet Surge,prank,Changed reactor status color to festive rainbow.,Colors reset; good morale noted.
+136,Library Archive,Unity,Cadet Scroll,boring log,"Catalogued 3,000 historical holo‑discs alphabetically.",Accuracy 100 %; librarian delighted.
+137,Hydro-Ops Bay,Unity,Cadet Bubble,malfunction,Introduced scented soap into reclamation loop.,Ship now smells of lavender; filter purge underway.
+138,Medical Wing,Doctor Hesh,Cadet Keen,therapy session,Anxious about accidentally greeting aliens with wrong tentacle count.,Cultural etiquette module assigned.
+139,Observation Dome,Unity,Cadet Flash,student issue,Took 4‑hour timelapse selfies with starfield.,Storage quota reminder issued.
+140,Drone Bay,Unity,Drone 5,drone grievance,Complained its propellers 'feel underappreciated'.,Positive reinforcement patch deployed.
+141,Waste Processing,Unity,Cadet Tidy,resource loss,Misrouted clean linens to incinerator chute.,Linens vaporized; inventory adjusted.
+142,Science Lab Complex,Unity,Cadet Caesar and Technician Varo,dispute,Technician Varo accused Caesar of disgarding her specimen. Later determined this was her 11th shift in a row and she had forgotten where she put it.,Placed Varo in a forced deep sleep for 24h for recovery.
+143,Hydroponics Garden,Botany AI,Cadet Flora,plant misconduct,Attempted to teach tulips synchronized dancing.,Tulips noncompliant; dancing postponed.
+144,Bridge,Commander Eyla,Cadet Byte,discipline,Inserted animated emoji into status reports.,Emoji removed; professionalism workshop set.
+145,Science Lab Complex,Unity,Cadet Stone,serious,Minor quake detected from containment test on basalt samples.,Seismic dampers reviewed.
+146,Shuttle Hangar,Unity,Cadet Glide,training error,Locked landing gear mid‑bounce test.,Landing gear hydraulics inspected.
+147,Engine Core,Unity,Cadet Ember,prank,Adjusted coolant readout to display inspirational quotes.,Quotes relocated to lounge screen.
+148,Cargo Hold,Unity,Cadet Seal,student issue,Used cargo straps for aerial yoga; caused crate avalanche.,Yoga mats provided elsewhere.
+149,Medical Wing,Doctor Hesh,Cadet Pulse,distress,Panic attack after holographic dentistry demo.,Deep‑breathing app installed.
+150,Engine Core,Security AI,Unknown,serious,Unauthorized scan detected on fusion couplings; possible external probe.,Security protocol Theta engaged.
+151,Observation Dome,Unity,Cadet Nova II,cultural exchange,Hosted storytelling circle with Virellan light glyphs.,Glyph files saved.
+152,Mess Hall,Chef Bot 9,Cadet Spoon,food complaint,Claimed soup bowl too asymmetrical for inner peace.,Served square bowls henceforth.
+153,Fabrication Workshop,Tech Iru,Cadet Rook,invention,Designed chessboard that comments on every move.,Chessboard listed as 'snarky'.
+154,Drone Bay,Unity,Drone 33,malfunction,Only speaks in binary haiku.,Language patch pending.
+155,Hydro-Ops Bay,Unity,Cadet Wave,prank,Installed rubber duck debug beacons in water lines.,Ducks collected; documentation amusing.
+156,Bridge,Unity,Cadet Pearl,discipline,Tried to rename all ship sections after gemstones.,Naming rights denied.
+157,Zero-G Sports Arena,Coach Puln,Cadet Whirl,injury scare,"Spun for 30 seconds, forgot how to stop.",Spin‑control webinar assigned.
+158,Communications Array,Unity,Cadet Morse,signal error,"Broadcast long string of dots and dashes, no translation.",Reminded of proper channel use.
+159,Crew Lounge,Unity,Cadet Breeze,noise complaint,Portable wind chimes not portable in zero‑G.,Wind chimes relocated to garden.
+160,Library Archive,Unity,Cadet Index,boring log,Re‑indexed index of indices.,Result surprisingly useful.
+161,Fabrication Workshop,Tech Iru,Cadet Forge,serious,"3‑D printer overheated, near‑flash fire avoided by auto‑shutoff.",Cooling fans upgraded.
+162,Waste Processing,Unity,Cadet Compost,plant enhancement,Started vermiculture pilot without approval.,Worms politely rehoused.
+163,Hydroponics Garden,Botany AI,Cadet Nectar,plant misconduct,Fed plants caffeinated water; growth rate erratic.,Caffeine ban instituted.
+164,Engine Core,Unity,Cadet Arc,training error,Misread schematic—reversed polarity of diagnostic port.,Polarity drills scheduled.
+165,Shuttle Hangar,Chief Dorel,Cadet Quasar,discipline,Tagged shuttle with graffiti: 'My other ride is a comet'.,"Graffiti photographed, then removed."
+166,Science Lab Complex,Unity,Cadet Zenith,distress,Suffered lab‑induced existential crisis during particle demo.,Counselling and philosophy elective offered.
+167,Mess Hall,Chef Bot 9,Cadet Crisp,food complaint,Toast level insufficiently existential.,Added 'meaningful browning' mode.
+168,Observation Dome,Unity,Cadet Halo II,student issue,Attempted selfie with gamma burst—camera melted filter.,Filter replaced; safety briefing mandatory.
+169,Bridge,Commander Eyla,Cadet Echo II,discipline,Pinged ship intercom every minute to test latency.,Assigned silent retreat.
+170,Drone Bay,Unity,Drone 2,malfunction,Stuck believing it was a toaster.,Firmware identity reset.
+171,Cryogenic Blue-Ice Storage,Unity,Cadet Chillax,prank,Stacked ice cores into igloo for 'crew retreat'.,"Igloo dismantled, photos saved."
+172,Hydro-Ops Bay,Unity,Cadet Filter,malfunction,"Set filters to 110% efficiency, starved pumps of flow.",Filters recalibrated.
+173,Engine Core,Security AI,Cadet Glint,serious,Detected malware attempt on coolant subsystem.,Patch deployed; forensic audit underway.
+174,Science Lab Complex,Unity,Cadet Gamma,boring log,"Recorded cell mitosis for 24h, zero commentary.",Data valued by biologists.
+175,Stellar Cartography Lab,Astro AI,Cadet Compass,student issue,Insisted Orion is upside‑down.,Orientation module updated.
+176,Waste Processing,Unity,Cadet Grub,resource loss,Misplaced 30 kg protein paste tube—later found half eaten.,Investigation tasty.
+177,Communications Array,Unity,Cadet Static II,signal error,Echo feedback loop created shipwide lullaby.,Loop closed; crew well rested.
+178,Medical Wing,Doctor Hesh,Cadet Remedy,therapy session,Feels unworthy of nanotech health benefits.,Assigned gratitude journaling.
+179,Zero-G Sports Arena,Coach Puln,Cadet Leap,injury scare,"Attempted eight‑step parkour in midair, misjudged step 3.",Healing gel applied.
+180,Cargo Hold,Unity,Cadet Freight,discipline,Smuggled extra dessert rations using crate false‑bottom.,Desserts confiscated; crate redesigned.
+181,Fabrication Workshop,Tech Iru,Cadet Pixel,invention,Created holographic pet that feeds on memes.,Safety of meme diet under review.
+182,Observation Dome,Unity,Cadet Lumen,cultural exchange,Projected Virellan light art onto asteroid.,Asteroid now tourist attraction.
+183,Bridge,Unity,Cadet Clutch,training error,Pressed every button 'just in case'.,Button locks engaged.
+184,Hydroponics Garden,Botany AI,Cadet Sprig,plant enhancement,Played classical music to beans; beans swayed rhythmically.,Music study expanded.
+185,Engine Core,Unity,Cadet Fuse,serious,Minor arc flash during capacitor swap; no injuries.,Protective gear standard raised.
+186,Shuttle Hangar,Chief Dorel,Cadet Jet,discipline,Raced cargo drones through hangar bay doors.,Drone speed limit enforced.
+187,Library Archive,Unity,Cadet Quiet,lost item,Lost voice inside whisper archive; found 2h later still whispering.,Voice volume restored gradually.
+188,Crew Lounge,Unity,Cadet Cup,noise complaint,Practiced throat singing with mug resonator.,Mug confiscated for research.
+189,Science Lab Complex,Unity,Cadet Frosting,prank,Filled centrifuge with cake batter.,Cake edible; centrifuge sticky.
+190,Waste Processing,Unity,Cadet Cycle,boring log,Documented waste‑to‑energy ratio update precisely.,Report praised by engineers.
+191,Drone Bay,Unity,Drone 40,malfunction,Believes corridor is Möbius strip; won't exit.,Logic map rebooted.
+192,Hydro-Ops Bay,Unity,Cadet Splash,distress,Fell into maintenance pool; chilled but okay.,Warning buoy installed.
+193,Engine Core,Security AI,Unknown Source,serious,Unauthorized spectral scan attempted via external probe.,Scan blocked; alert sent to Collaborative HQ.
+194,Observation Dome,Unity,Cadet Gloom,therapy session,Overwhelmed by size of universe; curled into ball.,Perspective counseling provided.
+195,Mess Hall,Chef Bot 9,Cadet Spice,food complaint,Requested hot sauce exceeding known Scoville scale.,Prototype sauce created—hazmat approved.
+196,Bridge,Unity,Cadet Macro,discipline,Wrote macro to auto‑praise self in logs.,Macro removed; humility lesson scheduled.
+197,Hydroponics Garden,Botany AI,Cadet Stem,plant misconduct,Over‑watered carnivorous plant; plant burped.,Water schedule corrected.
+198,Shuttle Hangar,Chief Dorel,Cadet Bolt,injury scare,Stubbed toe on anti‑grav pallet; claimed 'space betrayed me'.,Toe fine; space forgiven.
+199,Cargo Hold,Unity,Cadet Carry,resource loss,Dropped antimatter sample—thankfully dummy training unit.,Heart rates normalized.
+200,Science Lab Complex,Unity,Cadet Tinker,invention,Grew slime mold maze solver; mold escaped maze.,Mold now mascot.
+201,Drone Bay,Unity,Drone 19,drone grievance,"Dislikes new oil scent, requests lavender.",Scent cartridges diversified.
+202,Communications Array,Unity,Cadet Waveform,signal error,Accidentally jammed own music into diplomatic channel.,Diplomats requested track list.
+203,Bridge,Commander Eyla,Cadet Blink,discipline,Forgot to blink causing eye sensor false alerts.,Blink coaching underway.
+204,Hydro-Ops Bay,Unity,Cadet Filter II,malfunction,Set pH filters to philosophical mode—ignored numbers.,Filters reminded they're not philosophers.
+205,Medical Wing,Doctor Hesh,Cadet Heal,therapy session,Afraid nanobots will judge diet choices.,Nanobots sworn to secrecy.
+206,Observation Dome,Unity,Cadet Shutter,student issue,"Took 10,000 photos of same star; camera overheated.",Photo curation workshop assigned.
+207,Fabrication Workshop,Tech Iru,Cadet Gear,invention,3‑D printed reversible screwdriver that argues direction.,Tool review pending.
+208,Engine Core,Unity,Cadet Surge II,serious,Noticed harmonic resonance near danger threshold.,Resonance dampers enhanced.
+209,Waste Processing,Unity,Cadet Whirl,lost item,Dropped comm badge into compactor—badge now cube.,Cube displayed as art.
+210,Library Archive,Unity,Cadet Page,boring log,"Updated citation styles across 5,000 abstracts.",Librarian ecstatic.
+211,Zero-G Sports Arena,Coach Puln,Cadet Dash II,injury scare,Collided with nutrition drone mid‑flip.,Drone replaced smoothie.
+212,Hydroponics Garden,Botany AI,Cadet Bloom II,plant enhancement,Invented glow‑in‑the‑dark spinach.,Market potential high.
+213,Communications Array,Security AI,Unknown ,signal error,Intermittent warp echo detected—possible natural cause.,Logging long‑term study.
+214,Fabrication Workshop,Tech Iru,Cadet Stitch,prank,Printed 50 sock puppets resembling captain.,Puppets confiscated.
+215,Shuttle Hangar,Unity,Cadet Orbit II,discipline,Tried to pilot shuttle using dance pad controls.,Dance pad removed.
+216,Engine Core,Unity,Cadet Amp,training error,Misheard 'amps' as 'amps?' and doubled current.,Circuit breakers saved day.
+217,Science Lab Complex,Unity,Cadet Quill,student issue,Spilled quantum ink—text keeps rewriting itself.,Ink contained in probability jar.
+218,Cargo Hold,Unity,Cadet Lift,resource loss,Gravity glitch launched crate into ceiling.+,Crate secured; ceiling dented.
+219,Bridge,Unity,Cadet Flux,discipline,Added 'just vibing' to ship status line.,Status line cleansed.
+220,Medical Wing,Doctor Hesh,Cadet Calm II,therapy session,Seeks purpose beyond perfect health.,Philosophy mentorship assigned.
+221,Hydro-Ops Bay,Unity,Cadet Gurgle,malfunction,Water pumps humming sea shanty.,Audio dampeners installed.
+222,Observation Dome,Unity,Cadet Prism II,cultural exchange,Refracted starlight into Collaborative emblem.,Photo sent to HQ.
+223,Drone Bay,Unity,Drone 11,malfunction,"Subscribed to motivational quotes channel, now late to tasks.",Unsubscribed; motivation monitored.
+224,Fabrication Workshop,Tech Iru,Cadet Patch,invention,Sewed self‑repairing jumpsuit; jumpsuit now refuses washing.,Fabric diplomacy initiated.
+225,Bridge,Commander Eyla,Cadet Script II,discipline,Wrote script auto‑generating meeting excuses.,Script deleted; sincerity seminar scheduled.
+226,Hydroponics Garden,Botany AI,Cadet Bud,plant enhancement,Bred strawberry that tastes like moonlight.,Strawmoon approved for dessert.
+227,Science Lab Complex,Unity,Cadet Charge,serious,Battery array shorted causing minor fire; extinguisher drones deployed.,Array inspected; safety updated.
+228,Shuttle Hangar,Chief Dorel,Cadet Launch,training error,Forget to detach hose before liftoff test; dramatic hose dance ensued.,Hose detach checklist highlighted.
+229,Waste Processing,Unity,Cadet Dump,boring log,Monitored compactor rhythm for pattern; none found.,Entry archived as poetic.
+230,Library Archive,Unity,Cadet Saga,student issue,Overloaded neural implant with epic lore download.,Implant cooled; reading limits set.
+231,Engine Core,Security AI,Unknown Probe,serious,Ghost signature detected—resembles pre‑Collaborative spy drone.,Stealth countermeasures engaged.
+232,Mess Hall,Chef Bot 9,Cadet Crunch,food complaint,Cereal not crunching 'philosophically enough'.,Spoon acoustics adjusted.
+233,Crew Lounge,Unity,Cadet Broadcast,noise complaint,Livestreamed kazoo recital shipwide.,Kazoo permitted only in soundproof booth.
+234,Hydro-Ops Bay,Unity,Cadet Current,distress,Trapped arm in supply hose; minor bruising.,Safety latch added.
+235,Observation Dome,Unity,Cadet Horizon,lost item,Lost holo‑ring; found orbiting seating rail.,Ring retrieved.
+236,Drone Bay,Unity,Drone 6,drone grievance,Claims humans monopolize charging humor.,Joke rotation implemented.
+237,Stellar Cartography Lab,Astro AI,Cadet Ray,training error,Used wrong galactic coordinate epoch.,Epoch refresher posted.
+238,Science Lab Complex,Unity,Cadet Phase,prank,Synchronized lab clocks to random offsets.,Temporal uniformity restored.
+239,Bridge,Unity,Cadet Vector II,discipline,Attempted unauthorized meme injection into status HUD.,HUD sanitized.
+240,Hydroponics Garden,Botany AI,Cadet Sprout II,plant misconduct,Encouraged vines to create obstacle course.,Course dismantled; vines pruned.
+241,Engine Core,Unity,Cadet Surge III,serious,Detected vibration anomaly—suspected micro‑fracture.,Core inspection scheduled.
+242,Cargo Hold,Unity,Cadet Pack,lost item,Cannot locate crate of socks again.,Socks declared quantum.
+243,Medical Wing,Doctor Hesh,Cadet Zen II,therapy session,Unsure if breathing correctly in space.,Breathing workshop arranged.
+244,Fabrication Workshop,Tech Iru,Cadet Canvas,invention,3‑D printed painting that paints itself.,Art show planned.
+245,Waste Processing,Unity,Cadet Flush,malfunction,Flushed bio‑gel; pipes now slippery.,Bio‑gel banned from drains.
+246,Communications Array,Unity,Cadet Signal,lost item,Lost encryption key under keyboard.,Key found after lifting keyboard.
+247,Crew Lounge,Unity,Cadet Echo III,noise complaint,Tested echo effect in lounge repeatedly.,Echo turned off.248
+249,Shuttle Hangar,Unity,Cadet Driftwood,discipline,Painted shuttle like wooden boat for 'aesthetic.',Shuttle repainted.
+250,Observation Dome,Unity,All Cadets,morale,Gathered for meteor shower viewing; silent awe recorded.,Entry logged as inspiring conclusion.
